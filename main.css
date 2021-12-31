@@ -35,7 +35,7 @@ html{
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  padding: 200px 100px 0px 0px;
+  padding: 300px 100px 0px 0px;
 }
 .new_year>span{
   font-family: 'Cabin Sketch', cursive;
@@ -45,8 +45,8 @@ html{
 }
 span.eight{
   position: absolute;
-  top: 50%;
-  right: 50%;
+  top: 57%;
+  right: 51%;
   margin-right: -200px;
   -webkit-animation: out_2021 5s ease-in-out 5s forwards;
           animation: out_2021 5s ease-in-out 5s forwards;
